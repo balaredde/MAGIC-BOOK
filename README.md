@@ -65,9 +65,9 @@ This project aims to create a platform where images uploaded by users are analyz
 # Installation and Setup Instructions
 
  1. Clone the Repository
-```bash
+"""bash
 git clone https://github.com/your-repo/multi-image-story-generator.git
-cd multi-image-story-generator```bash
+cd multi-image-story-generator"""
 
 
 # Features Explanation
