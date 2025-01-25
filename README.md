@@ -27,7 +27,7 @@ This project aims to create a platform where images uploaded by users are analyz
 - kids: exploring new things , interactive
 
 
-#Technology Stack
+# Technology Stack
 
 - Frontend: Streamlit (Python-based framework for web apps)
 - Image Captioning: BLIP (Salesforce), ViT-GPT2 (Transformer-based models)
@@ -67,7 +67,7 @@ This project aims to create a platform where images uploaded by users are analyz
  1. Clone the Repository
 ```bash
 git clone https://github.com/your-repo/multi-image-story-generator.git
-cd multi-image-story-generator
+cd multi-image-story-generator```
 
 
 # Features Explanation
